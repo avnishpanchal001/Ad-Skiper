@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Dot Rewriter - Chrome Extension MV3",
+  "description": "Production-ready Chrome Extension (Manifest V3) that seamlessly redirects YouTube watch URLs to youtube.com. with zero redirect loops, instant declarative interception, and SPA dynamic navigation handling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
